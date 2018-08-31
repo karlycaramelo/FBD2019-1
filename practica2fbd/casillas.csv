@@ -1,0 +1,32 @@
+identificador,id_estado,id_distrito,seccion,tipo_casilla,aprobada
+1,Ciudad de Mexico,1,1,C1,S
+2,Estado de Mexico,2,2,C2,S
+3,Jalisco,3,3,C3,S
+4,Oaxaca,4,4,C2,N
+5,Puebla,5,5,C1,N
+6,Guanajuato,6,6,C3,N
+7,Queretaro,7,7,B1,S
+8,Michoacan,8,8,B1,S
+9,Nuevo Leon,9,9,B1,S
+10,Chiapas,10,10,B1,S
+11,Baja California,11,11,B1,S
+12,Yucatan,12,12,C3,S
+13,Sonora,13,13,C2,N
+14,Veracruz,14,14,C3,S
+15,Chihuahua,15,15,C3,N
+16,Sinaloa,16,16,C3,S
+17,Estado de Hidalgo,17,17,C3,N
+18,Durango,18,18,C2,S
+19,Guerrero,19,19,C1,S
+20,San Luis Potosí,20,20,C1,S
+21,Quintana Roo,21,21,C1,S
+22,Tamaulipas,22,22,C1,S
+23,Morelos,23,23,B1,S
+24,Coahuila de Zaragoza,24,24,C2,N
+25,Zacatecas,25,25,C2,N
+26,Tabasco,26,26,C2,N
+27,Aguascalientes,27,27,C2,S
+28,Nayarit,28,28,C2,S
+29,Colima,29,29,B1,S
+30,Campeche,30,30,C2,S
+31,Baja California Sur,31,31,C3,S
